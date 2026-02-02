@@ -3,6 +3,8 @@
 My name is Kristine Strasburger, and this is my horse, CDC Lexi.
 
 <img src="https://github.com/user-attachments/assets/58425825-eee2-454e-9f6f-f57d89f02668" width="300" height="auto" alt="CDC Lexi and caregiver Kristine">
+
+[![CI](https://github.com/kstrasburger/kstrasburger/actions/workflows/blank.yml/badge.svg)](https://github.com/kstrasburger/kstrasburger/actions/workflows/blank.yml)
 <!--
 **kstrasburger/kstrasburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
