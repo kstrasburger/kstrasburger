@@ -20,7 +20,6 @@
 
 [![CI](https://github.com/kstrasburger/kstrasburger/actions/workflows/blank.yml/badge.svg)]
 
-(https://github.com/kstrasburger/kstrasburger/actions/workflows/blank.yml)
 <!--
 **kstrasburger/kstrasburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
